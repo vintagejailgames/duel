@@ -1,0 +1,47 @@
+Hey, amics de les jail aventures en format ascii, ací us ensenye el que serà un dels pròxims Ascii-Game¸, "Duel en ok corral (ascii-adventures in the far west)©".
+
+La creació de l'escenari és totalment aleatòria, dues muntanyes de distinta forma on es refugien els protagonistes es creen als laterals de la pantalla, cadascuna conté una obertura cap al desert on hi han arbres que ens protegeixen dels dispars de l'altre vaquer. També trobaras unes putes serps (§) que, de moment no fan res però, en la versió definitiva del joc picaran més fort que un mitabe volador.
+
+Com observaras també es crea un riu amb el seu pont, es recomanable creuar el riu utilitzant el pont ja que si ens hi tirem correm el risc d'ofegar-nos.
+
+De moment disposem de 5 bales, si les gastem apareixerà una nova cartuxera de la forma: ! de color white blinking, per a agafar-la només t'hauras de situar damunt d'ella.
+
+La idea del joc és la següent:
+
+Hem de fer un forat en la muntanya tal que pugam accedir al seu interior, ja que per l'abertura de la pròpia muntanya no podrem. Per a fer açò utilitzarem la dinamita que anirem arreplegant per la pantalla i la explosionarem prop de la muntanya.
+
+En cada muntanya, a part, tamb‚ hi han 4 forats blancs, s¢n miradors i per ah¡ podrem disparar al contrari.
+
+Haurem d'estar al loro perque si ens despistem ens poden pegar un tir o ens pot fotre una serp. Una vegada hem fet el forat de la muntanya podrem accedir a l'interior, però és que tinc un lio que te cagues i no sé exactament de que fer el puto HASZI GUEIM.
+
+Si vols tirar-me una maneta, qualsevol comentari, crítica, suggerència, street polls detected o qualsevol altra jístory, envíam un e-mail a:   juacado@inf.upv.es
+
+
+No deixeu de visitar  fly.to/jailpage
+
+
+Ah, se m'oblidava, en aquesta ascii-demo pots desplaçar-te per la pantalla:
+
+De moment:
+
+Q   (amunt)
+A   (baix)
+O   (esquerra)
+P   (dreta)
+Alt (disparar)
+ESC (abortar)
+
+i en el cant¢ inferior esquerre de la pantalla es mostren els punts de vida que ens queden.
+
+Açò encara deu tindre prou street polls, si en detectes algun notifica-m'ho.
+
+
+"la falta de sueño provoca pèrdida de inteligencia."
+
+
+NOTA: Aquest Ascii-Game¸ pot patir modificacions sense previ av¡s.
+
+
+Duel en ok corral (ascii-adventures in the far west)© ‚s una marca registrada de MON.
+
+Ascii-Game¸ ‚s copyright de la Jail Staff.
